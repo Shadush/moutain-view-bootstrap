@@ -1,0 +1,60 @@
+body {
+  background: #f5d9d5;
+  font-family: Oswald;
+}
+
+.paraph h2 {
+  color: #EA1C2C;
+  font-weight: 100;
+  font-size: 2rem;
+}
+
+.paraph p {
+  line-height: 2;
+  color: salmon;
+}
+
+.content {
+  margin-top: 100px;
+}
+
+#mainmenu {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+
+#mainmenu .navbar-brand {
+  color: #EA1C2C;
+  font-size: 2rem;
+}
+
+#mainmenu .nav-link {
+  color: white;
+}
+
+#mainmenu .nav-link:hover {
+  color: #EA1C2C;
+}
+
+#headings span {
+  color: #EA1C2C;
+}
+
+#headings h2 {
+  font-weight: 100;
+}
+
+@media (max-width: 1400px) {
+  #headings h2 {
+    font-weight: 100;
+    font-size: 2rem;
+  }
+
+}
+.navbar.scrolled{
+  background: salmon;
+  transition: background 200ms;
+}
+.icone {
+  font-size: 6em;
+}
