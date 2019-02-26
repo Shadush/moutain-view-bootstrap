@@ -6,4 +6,4 @@ Simple HTML/CSS. Made from scratch, nothing fancy.
 
 Feel free to use.  
 
-[Demo](https://shadush.github.io/moutain-view-bootstrap/)
+[Demo](https://moutain-view-bootstrap.netlify.com/)
