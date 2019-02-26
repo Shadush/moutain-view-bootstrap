@@ -51,10 +51,12 @@ body {
   }
 
 }
-.navbar.scrolled{
+
+.navbar.scrolled {
   background: #7C96A8;
   transition: background 200ms;
 }
+
 .icone {
   font-size: 6em;
 }
