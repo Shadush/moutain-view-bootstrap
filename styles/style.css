@@ -1,17 +1,17 @@
 body {
-  background: #f5d9d5;
+  background: #F0E5D6;
   font-family: Oswald;
 }
 
 .paraph h2 {
-  color: #EA1C2C;
+  color: #01395C;
   font-weight: 100;
   font-size: 2rem;
 }
 
 .paraph p {
   line-height: 2;
-  color: salmon;
+  color: #7C96A8;
 }
 
 .content {
@@ -24,20 +24,20 @@ body {
 }
 
 #mainmenu .navbar-brand {
-  color: #EA1C2C;
+  color: #01395C;
   font-size: 2rem;
 }
 
 #mainmenu .nav-link {
-  color: white;
+  color: #8AC6BF;
 }
 
 #mainmenu .nav-link:hover {
-  color: #EA1C2C;
+  color: #01395C;
 }
 
 #headings span {
-  color: #EA1C2C;
+  color: #01395C;
 }
 
 #headings h2 {
@@ -52,7 +52,7 @@ body {
 
 }
 .navbar.scrolled{
-  background: salmon;
+  background: #7C96A8;
   transition: background 200ms;
 }
 .icone {
