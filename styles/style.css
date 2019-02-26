@@ -1,11 +1,11 @@
 body {
   background: #F0E5D6;
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
 }
 
 .paraph h2 {
   color: #01395C;
-  font-weight: 100;
+  font-weight: 200;
   font-size: 2rem;
 }
 
@@ -20,7 +20,7 @@ body {
 
 #mainmenu {
   font-size: 1.5rem;
-  font-weight: 100;
+  font-weight: 200;
 }
 
 #mainmenu .navbar-brand {
@@ -41,12 +41,12 @@ body {
 }
 
 #headings h2 {
-  font-weight: 100;
+  font-weight: 200;
 }
 
 @media (max-width: 1400px) {
   #headings h2 {
-    font-weight: 100;
+    font-weight: 200;
     font-size: 2rem;
   }
 
